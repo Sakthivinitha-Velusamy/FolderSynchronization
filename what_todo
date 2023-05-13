@@ -1,0 +1,18 @@
+Things todo
+
+Synchronization
+1) Get source and destination folder configuration from commandline
+2) Read the files and folders available in source folder
+3) Read the files and folders available in destination folder
+4) Compare the files and folders list from source and destination
+5) If a file or folder is missing in destination, then copy it from source folder to the destination
+6) If a file or folder is available in destination but not available in the source, then delete it from the destination folder
+7) Each time a file or folder is copied into the destination folder, print the status into the command prompt
+8) Each time a file or folder is deleted from the destination folder, print the status into the command prompt
+
+Logfile
+9) Get Path for log file from commandline
+10) All the printed status should be put in a file
+
+Synchronization frequency
+11) Get time gap between synchronization from commandline
